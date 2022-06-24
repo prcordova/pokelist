@@ -1,0 +1,21 @@
+:root{
+    --aqua : #E8F6F3;
+    --darkblue-200 : #34495E;
+    --blue-400 : #3375b8;
+    --blue-700 : #0f7be7;
+    --purple-500 : rgb(93, 45, 156);
+    --purple : rgb(168, 13, 180);
+}
+body{
+    background-color: var(--darkblue-200);
+ 
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+     
+   
+}

@@ -1,0 +1,15 @@
+header{
+    width: 100vw;
+    background-color: var(--blue-700);
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+header img{
+    width: 4rem;
+    height: 4rem;
+    background-color: transparent;
+}
